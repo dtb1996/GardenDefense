@@ -48,7 +48,7 @@ void AGAM312HUD::BeginPlay()
 
 		if(CurrentWidget)
 		{
-			CurrentWidget->AddToViewport();
+			//CurrentWidget->AddToViewport();
 		}
 	}
 }

@@ -1,9 +1,7 @@
 # GardenDefense
 A defense game that requires taking care of your garden and protecting it from bug invasions.
 
-****************************************************************************************
-
-Attributions
+## Attributions
 
 Bug model:
 Ant by ZERG_LURKER
@@ -25,13 +23,11 @@ Seed 3-D model:
 Almond Kernel by triduza
 https://www.turbosquid.com/FullPreview/Index.cfm/ID/626073
 
-****************************************************************************************
-
-Description
+## Description
 
 This game is a forest world originally created as part of the Game Programming and Development coursework at Southern New Hampshire University. The refined version includes new gameplay mechanics based on the tower defense genre. In Garden defense, the player must plant seeds, water the individual plants, and defend against insect attacks.
 
-Tools Used
+## Tools Used
 
 - Unreal Engine 4
 - Autodesk Maya
@@ -39,7 +35,7 @@ Tools Used
 - Adobe Photoshop
 - GIMP
 
-Reflection
+## Reflection
 
 How would you describe the process of creating and polishing the artifact?
 
